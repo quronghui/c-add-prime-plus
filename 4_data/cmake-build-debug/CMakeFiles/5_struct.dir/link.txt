@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/5_struct.dir/5_struct.cpp.o  -o 5_struct 

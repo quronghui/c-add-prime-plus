@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/4_input.dir/4_input.cpp.o  -o 4_input 

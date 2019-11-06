@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/10_vector_array.dir/10_vector_array.cpp.o  -o 10_vector_array 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1_express.dir/1_express.cpp.o  -o 1_express 

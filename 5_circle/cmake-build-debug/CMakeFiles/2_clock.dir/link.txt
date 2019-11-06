@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2_clock.dir/2_clock.cpp.o  -o 2_clock 

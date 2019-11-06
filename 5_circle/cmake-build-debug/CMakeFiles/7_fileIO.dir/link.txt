@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/7_fileIO.dir/7_fileIO.cpp.o  -o 7_fileIO 

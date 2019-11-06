@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/6_cctypes.dir/6_cctypes.cpp.o  -o 6_cctypes 

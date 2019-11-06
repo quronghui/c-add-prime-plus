@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="5_circle"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_fileIO">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/7_fileIO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 7_fileIO"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_fileIO/fast">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/7_fileIO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 7_fileIO/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_circle">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/5_circle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_circle"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_circle/fast">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/5_circle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_circle/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_express">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/1_express" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_express"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_express/fast">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/1_express" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_express/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_range_circle">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/3_range_circle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_range_circle"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_range_circle/fast">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/3_range_circle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_range_circle/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_clock">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/2_clock" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_clock"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_clock/fast">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/2_clock" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_clock/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_input">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/4_input" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_input"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_input/fast">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/4_input" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_input/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_cctypes">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/6_cctypes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_cctypes"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_cctypes/fast">
+				<Option output="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/6_cctypes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_cctypes/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/quronghui/HustFiles/C++PrimePlus/5_circle/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/quronghui/HustFiles/C++PrimePlus/5_circle/1_express.cpp">
+			<Option target="1_express"/>
+		</Unit>
+		<Unit filename="/home/quronghui/HustFiles/C++PrimePlus/5_circle/2_clock.cpp">
+			<Option target="2_clock"/>
+		</Unit>
+		<Unit filename="/home/quronghui/HustFiles/C++PrimePlus/5_circle/3_range_circle.cpp">
+			<Option target="3_range_circle"/>
+		</Unit>
+		<Unit filename="/home/quronghui/HustFiles/C++PrimePlus/5_circle/4_input.cpp">
+			<Option target="4_input"/>
+		</Unit>
+		<Unit filename="/home/quronghui/HustFiles/C++PrimePlus/5_circle/6_cctypes.cpp">
+			<Option target="6_cctypes"/>
+		</Unit>
+		<Unit filename="/home/quronghui/HustFiles/C++PrimePlus/5_circle/7_fileIO.cpp">
+			<Option target="7_fileIO"/>
+		</Unit>
+		<Unit filename="/home/quronghui/HustFiles/C++PrimePlus/5_circle/main.cpp">
+			<Option target="5_circle"/>
+		</Unit>
+		<Unit filename="/home/quronghui/HustFiles/C++PrimePlus/5_circle/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

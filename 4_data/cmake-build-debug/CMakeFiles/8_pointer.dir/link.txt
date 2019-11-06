@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/8_pointer.dir/8_pointer.cpp.o  -o 8_pointer 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/6_union.dir/6_union.cpp.o  -o 6_union 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sqrt.dir/1_sqrt.cpp.o  -o sqrt 

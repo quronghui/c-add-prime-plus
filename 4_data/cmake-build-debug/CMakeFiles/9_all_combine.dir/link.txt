@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/9_all_combine.dir/9_all_combine.cpp.o  -o 9_all_combine 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2_hexoct.dir/2_hexoct.cpp.o  -o 2_hexoct 

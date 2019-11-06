@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/3_cin_getline.dir/3_cin_getline.cpp.o  -o 3_cin_getline 
