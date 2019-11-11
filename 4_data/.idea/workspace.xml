@@ -21,7 +21,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="433acab3-bb50-4cd9-b128-b86b889d6e0c" name="Default Changelist" comment="" />
+    <list default="true" id="433acab3-bb50-4cd9-b128-b86b889d6e0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../5_circle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7_funcation/.idea/7_funcation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7_funcation/1_funcation_array.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7_funcation/2_recur.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_circle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5_circle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_circle/7_fileIO.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../5_circle/7_fileIO.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_circle/cmake-build-debug/carinfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../5_circle/cmake-build-debug/carinfo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +42,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1SyG8E2g6MOhmA5NL0M07R6wbJX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -133,11 +147,27 @@
       <workItem from="1572528358979" duration="46000" />
       <workItem from="1572661737417" duration="603000" />
       <workItem from="1572852859204" duration="17000" />
-      <workItem from="1573000041468" duration="1630000" />
+      <workItem from="1573000041468" duration="2243000" />
+      <workItem from="1573086404759" duration="617000" />
+      <workItem from="1573263079787" duration="633000" />
+      <workItem from="1573457450465" duration="1244000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

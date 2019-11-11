@@ -1,4 +1,4 @@
-Make and model: dsafdsa
-year: 123
-was asking $: 123.00
-now asking $: 112.30
+Make and model: s
+year: 1
+was asking $: 2.00
+now asking $: 1.83

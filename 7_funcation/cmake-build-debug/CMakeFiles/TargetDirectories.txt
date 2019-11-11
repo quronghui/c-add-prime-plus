@@ -1,0 +1,5 @@
+/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles/2_recur.dir
+/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles/7_funcation.dir
+/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles/1_funcation_array.dir

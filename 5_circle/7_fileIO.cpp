@@ -38,6 +38,8 @@ void out_to_file()
     cout << "was asking $: " << a_price << endl;
     cout << "now asking $: " << d_price << endl;
 
+    cout << sizeof automobile << endl;
+
     // 通过fstream将输出到文件中
     // outFile 对象和cout对象的使用方式一样；
     outFile << fixed;
@@ -47,6 +49,7 @@ void out_to_file()
     outFile << "year: " << year << endl;
     outFile << "was asking $: " << a_price << endl;
     outFile << "now asking $: " << d_price << endl;
+
 }
 
 // (2)从文件中进行输入；
@@ -93,8 +96,8 @@ void cin_from_file()
 
 int main()
 {
-//    out_to_file();
-    cin_from_file();
+    out_to_file();
+//    cin_from_file();
     return 0;
 }
 

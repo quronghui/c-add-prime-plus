@@ -2,13 +2,13 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="5_circle" targetName="5_circle" />
-      <config projectName="5_circle" targetName="1_express" />
       <config projectName="5_circle" targetName="4_input" />
+      <config projectName="5_circle" targetName="5_circle" />
+      <config projectName="5_circle" targetName="6_cctypes" />
       <config projectName="5_circle" targetName="3_range_circle" />
       <config projectName="5_circle" targetName="2_clock" />
-      <config projectName="5_circle" targetName="6_cctypes" />
       <config projectName="5_circle" targetName="7_fileIO" />
+      <config projectName="5_circle" targetName="1_express" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -17,7 +17,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a880275-3123-486b-930a-ea3ce0baa8c8" name="Default Changelist" comment="" />
+    <list default="true" id="7a880275-3123-486b-930a-ea3ce0baa8c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7_funcation/.idea/7_funcation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7_funcation/1_funcation_array.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7_funcation/2_recur.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_data/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4_data/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_fileIO.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/7_fileIO.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/carinfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/carinfo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +38,14 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectId" id="1SyGEVArj0kj7fy2L76CMDEHP2c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../4_data" />
   </component>
@@ -110,11 +125,27 @@
       <workItem from="1572836877776" duration="316000" />
       <workItem from="1572874823517" duration="1199000" />
       <workItem from="1572999532899" duration="492000" />
-      <workItem from="1573000031969" duration="4655000" />
+      <workItem from="1573000031969" duration="4819000" />
+      <workItem from="1573086423027" duration="1080000" />
+      <workItem from="1573263079786" duration="630000" />
+      <workItem from="1573457386050" duration="1496000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
