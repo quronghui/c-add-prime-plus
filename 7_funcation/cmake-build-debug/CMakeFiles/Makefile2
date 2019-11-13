@@ -53,16 +53,24 @@ CMAKE_BINARY_DIR = /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-buil
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/2_recur.dir/all
-all: CMakeFiles/7_funcation.dir/all
+all: CMakeFiles/5_default_parameter.dir/all
 all: CMakeFiles/1_funcation_array.dir/all
+all: CMakeFiles/3_inline_funcation.dir/all
+all: CMakeFiles/4_1_alias_variable.dir/all
+all: CMakeFiles/7_funcation.dir/all
+all: CMakeFiles/4_2_alias_struct.dir/all
+all: CMakeFiles/2_recur.dir/all
 
 .PHONY : all
 
 # The main recursive "clean" target.
-clean: CMakeFiles/2_recur.dir/clean
-clean: CMakeFiles/7_funcation.dir/clean
+clean: CMakeFiles/5_default_parameter.dir/clean
 clean: CMakeFiles/1_funcation_array.dir/clean
+clean: CMakeFiles/3_inline_funcation.dir/clean
+clean: CMakeFiles/4_1_alias_variable.dir/clean
+clean: CMakeFiles/7_funcation.dir/clean
+clean: CMakeFiles/4_2_alias_struct.dir/clean
+clean: CMakeFiles/2_recur.dir/clean
 
 .PHONY : clean
 
@@ -72,58 +80,31 @@ preinstall:
 .PHONY : preinstall
 
 #=============================================================================
-# Target rules for target CMakeFiles/2_recur.dir
+# Target rules for target CMakeFiles/5_default_parameter.dir
 
 # All Build rule for target.
-CMakeFiles/2_recur.dir/all:
-	$(MAKE) -f CMakeFiles/2_recur.dir/build.make CMakeFiles/2_recur.dir/depend
-	$(MAKE) -f CMakeFiles/2_recur.dir/build.make CMakeFiles/2_recur.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target 2_recur"
-.PHONY : CMakeFiles/2_recur.dir/all
+CMakeFiles/5_default_parameter.dir/all:
+	$(MAKE) -f CMakeFiles/5_default_parameter.dir/build.make CMakeFiles/5_default_parameter.dir/depend
+	$(MAKE) -f CMakeFiles/5_default_parameter.dir/build.make CMakeFiles/5_default_parameter.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target 5_default_parameter"
+.PHONY : CMakeFiles/5_default_parameter.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/2_recur.dir/rule: cmake_check_build_system
+CMakeFiles/5_default_parameter.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2_recur.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/5_default_parameter.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/2_recur.dir/rule
+.PHONY : CMakeFiles/5_default_parameter.dir/rule
 
 # Convenience name for target.
-2_recur: CMakeFiles/2_recur.dir/rule
+5_default_parameter: CMakeFiles/5_default_parameter.dir/rule
 
-.PHONY : 2_recur
-
-# clean rule for target.
-CMakeFiles/2_recur.dir/clean:
-	$(MAKE) -f CMakeFiles/2_recur.dir/build.make CMakeFiles/2_recur.dir/clean
-.PHONY : CMakeFiles/2_recur.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/7_funcation.dir
-
-# All Build rule for target.
-CMakeFiles/7_funcation.dir/all:
-	$(MAKE) -f CMakeFiles/7_funcation.dir/build.make CMakeFiles/7_funcation.dir/depend
-	$(MAKE) -f CMakeFiles/7_funcation.dir/build.make CMakeFiles/7_funcation.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target 7_funcation"
-.PHONY : CMakeFiles/7_funcation.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/7_funcation.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/7_funcation.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/7_funcation.dir/rule
-
-# Convenience name for target.
-7_funcation: CMakeFiles/7_funcation.dir/rule
-
-.PHONY : 7_funcation
+.PHONY : 5_default_parameter
 
 # clean rule for target.
-CMakeFiles/7_funcation.dir/clean:
-	$(MAKE) -f CMakeFiles/7_funcation.dir/build.make CMakeFiles/7_funcation.dir/clean
-.PHONY : CMakeFiles/7_funcation.dir/clean
+CMakeFiles/5_default_parameter.dir/clean:
+	$(MAKE) -f CMakeFiles/5_default_parameter.dir/build.make CMakeFiles/5_default_parameter.dir/clean
+.PHONY : CMakeFiles/5_default_parameter.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/1_funcation_array.dir
@@ -151,6 +132,141 @@ CMakeFiles/1_funcation_array.dir/rule: cmake_check_build_system
 CMakeFiles/1_funcation_array.dir/clean:
 	$(MAKE) -f CMakeFiles/1_funcation_array.dir/build.make CMakeFiles/1_funcation_array.dir/clean
 .PHONY : CMakeFiles/1_funcation_array.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/3_inline_funcation.dir
+
+# All Build rule for target.
+CMakeFiles/3_inline_funcation.dir/all:
+	$(MAKE) -f CMakeFiles/3_inline_funcation.dir/build.make CMakeFiles/3_inline_funcation.dir/depend
+	$(MAKE) -f CMakeFiles/3_inline_funcation.dir/build.make CMakeFiles/3_inline_funcation.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target 3_inline_funcation"
+.PHONY : CMakeFiles/3_inline_funcation.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/3_inline_funcation.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/3_inline_funcation.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/3_inline_funcation.dir/rule
+
+# Convenience name for target.
+3_inline_funcation: CMakeFiles/3_inline_funcation.dir/rule
+
+.PHONY : 3_inline_funcation
+
+# clean rule for target.
+CMakeFiles/3_inline_funcation.dir/clean:
+	$(MAKE) -f CMakeFiles/3_inline_funcation.dir/build.make CMakeFiles/3_inline_funcation.dir/clean
+.PHONY : CMakeFiles/3_inline_funcation.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/4_1_alias_variable.dir
+
+# All Build rule for target.
+CMakeFiles/4_1_alias_variable.dir/all:
+	$(MAKE) -f CMakeFiles/4_1_alias_variable.dir/build.make CMakeFiles/4_1_alias_variable.dir/depend
+	$(MAKE) -f CMakeFiles/4_1_alias_variable.dir/build.make CMakeFiles/4_1_alias_variable.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target 4_1_alias_variable"
+.PHONY : CMakeFiles/4_1_alias_variable.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/4_1_alias_variable.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/4_1_alias_variable.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/4_1_alias_variable.dir/rule
+
+# Convenience name for target.
+4_1_alias_variable: CMakeFiles/4_1_alias_variable.dir/rule
+
+.PHONY : 4_1_alias_variable
+
+# clean rule for target.
+CMakeFiles/4_1_alias_variable.dir/clean:
+	$(MAKE) -f CMakeFiles/4_1_alias_variable.dir/build.make CMakeFiles/4_1_alias_variable.dir/clean
+.PHONY : CMakeFiles/4_1_alias_variable.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/7_funcation.dir
+
+# All Build rule for target.
+CMakeFiles/7_funcation.dir/all:
+	$(MAKE) -f CMakeFiles/7_funcation.dir/build.make CMakeFiles/7_funcation.dir/depend
+	$(MAKE) -f CMakeFiles/7_funcation.dir/build.make CMakeFiles/7_funcation.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target 7_funcation"
+.PHONY : CMakeFiles/7_funcation.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/7_funcation.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/7_funcation.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/7_funcation.dir/rule
+
+# Convenience name for target.
+7_funcation: CMakeFiles/7_funcation.dir/rule
+
+.PHONY : 7_funcation
+
+# clean rule for target.
+CMakeFiles/7_funcation.dir/clean:
+	$(MAKE) -f CMakeFiles/7_funcation.dir/build.make CMakeFiles/7_funcation.dir/clean
+.PHONY : CMakeFiles/7_funcation.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/4_2_alias_struct.dir
+
+# All Build rule for target.
+CMakeFiles/4_2_alias_struct.dir/all:
+	$(MAKE) -f CMakeFiles/4_2_alias_struct.dir/build.make CMakeFiles/4_2_alias_struct.dir/depend
+	$(MAKE) -f CMakeFiles/4_2_alias_struct.dir/build.make CMakeFiles/4_2_alias_struct.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target 4_2_alias_struct"
+.PHONY : CMakeFiles/4_2_alias_struct.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/4_2_alias_struct.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/4_2_alias_struct.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/4_2_alias_struct.dir/rule
+
+# Convenience name for target.
+4_2_alias_struct: CMakeFiles/4_2_alias_struct.dir/rule
+
+.PHONY : 4_2_alias_struct
+
+# clean rule for target.
+CMakeFiles/4_2_alias_struct.dir/clean:
+	$(MAKE) -f CMakeFiles/4_2_alias_struct.dir/build.make CMakeFiles/4_2_alias_struct.dir/clean
+.PHONY : CMakeFiles/4_2_alias_struct.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/2_recur.dir
+
+# All Build rule for target.
+CMakeFiles/2_recur.dir/all:
+	$(MAKE) -f CMakeFiles/2_recur.dir/build.make CMakeFiles/2_recur.dir/depend
+	$(MAKE) -f CMakeFiles/2_recur.dir/build.make CMakeFiles/2_recur.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target 2_recur"
+.PHONY : CMakeFiles/2_recur.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/2_recur.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2_recur.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/2_recur.dir/rule
+
+# Convenience name for target.
+2_recur: CMakeFiles/2_recur.dir/rule
+
+.PHONY : 2_recur
+
+# clean rule for target.
+CMakeFiles/2_recur.dir/clean:
+	$(MAKE) -f CMakeFiles/2_recur.dir/build.make CMakeFiles/2_recur.dir/clean
+.PHONY : CMakeFiles/2_recur.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

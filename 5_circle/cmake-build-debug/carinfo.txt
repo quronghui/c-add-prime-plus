@@ -1,4 +1,4 @@
-Make and model: s
-year: 1
-was asking $: 2.00
-now asking $: 1.83
+Make and model: 122
+year: 12
+was asking $: 12.00
+now asking $: 10.96

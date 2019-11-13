@@ -6,3 +6,8 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(7_funcation main.cpp )
 add_executable(1_funcation_array 1_funcation_array.cpp )
 add_executable(2_recur 2_recur.cpp)
+add_executable(3_inline_funcation 3_inline_funcation.cpp)
+add_executable(4_1_alias_variable 4_1_alias_variable.cpp)
+add_executable(4_2_alias_struct 4_2_alias_struct.cpp )
+add_executable(5_default_parameter 5_default_parameter.cpp)
+

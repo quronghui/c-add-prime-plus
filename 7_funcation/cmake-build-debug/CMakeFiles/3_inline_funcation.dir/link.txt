@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/3_inline_funcation.dir/3_inline_funcation.cpp.o  -o 3_inline_funcation 

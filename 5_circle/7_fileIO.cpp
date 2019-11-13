@@ -19,7 +19,8 @@ void out_to_file()
     // fstream中用于处理输出的类ofstream，通过其定义对象outFile;
     // 类似于iostream 中的类ostream，通过其定义的对象cout;
     ofstream outFile;
-    outFile.open("carinfo.txt");    // 对象和文件建立关联；
+    char *fn = "carinfo.txt";
+    outFile.open(fn);    // 对象和文件建立关联；
 
     // 通过Istream进行输入内容
     cout << "Enter the make and model of automobile: ";
@@ -30,9 +31,9 @@ void out_to_file()
     cin >> a_price;
     d_price = a_price * 0.913;
     // 通过Ostream 将内容输出到屏幕上；
-    cout << fixed;          // 特定格式的输出
-    cout.precision(2);
-    cout.setf(ios_base::showpoint);
+    cout.setf(ios_base::fixed); // 将对象置于使用定点表示法的模式；
+    cout.precision(2);      // 方法precision指定显示多少位小数；
+    cout.setf(ios_base::showpoint); // 将对象置于显示小数点的模式，即使小数部分为零；
     cout << "Make and model: " << automobile << endl;
     cout << "year: " << year << endl;
     cout << "was asking $: " << a_price << endl;
