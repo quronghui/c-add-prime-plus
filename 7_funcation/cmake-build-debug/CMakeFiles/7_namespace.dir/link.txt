@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/7_namespace.dir/7_namespace.cpp.o  -o 7_namespace 

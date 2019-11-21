@@ -1,5 +1,8 @@
 /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles/7_namespace.dir
+/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles/6_1_template.dir
+/home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles/6_template_funcation.dir
 /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles/5_default_parameter.dir
 /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles/1_funcation_array.dir
 /home/quronghui/HustFiles/C++PrimePlus/7_funcation/cmake-build-debug/CMakeFiles/3_inline_funcation.dir

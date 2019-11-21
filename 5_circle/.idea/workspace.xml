@@ -17,23 +17,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a880275-3123-486b-930a-ea3ce0baa8c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../7_funcation/3_inline_funcation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7_funcation/4_1_alias_variable.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7_funcation/4_2_alias_struct.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7_funcation/5_default_parameter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_fileIO.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/7_fileIO.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/carinfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/carinfo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7_funcation/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../7_funcation/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/7_funcation.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/7_funcation.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/CMakeFiles/7_funcation.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/CMakeFiles/7_funcation.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../7_funcation/cmake-build-debug/Makefile" afterDir="false" />
-    </list>
+    <list default="true" id="7a880275-3123-486b-930a-ea3ce0baa8c8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../7_funcation" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,6 +120,7 @@
       <workItem from="1573263079786" duration="630000" />
       <workItem from="1573457386050" duration="1496000" />
       <workItem from="1573605118711" duration="2935000" />
+      <workItem from="1573692090893" duration="120000" />
     </task>
     <servers />
   </component>

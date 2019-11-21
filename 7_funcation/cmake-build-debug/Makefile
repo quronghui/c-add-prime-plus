@@ -111,6 +111,45 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named 7_namespace
+
+# Build rule for target.
+7_namespace: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 7_namespace
+.PHONY : 7_namespace
+
+# fast build rule for target.
+7_namespace/fast:
+	$(MAKE) -f CMakeFiles/7_namespace.dir/build.make CMakeFiles/7_namespace.dir/build
+.PHONY : 7_namespace/fast
+
+#=============================================================================
+# Target rules for targets named 6_1_template
+
+# Build rule for target.
+6_1_template: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 6_1_template
+.PHONY : 6_1_template
+
+# fast build rule for target.
+6_1_template/fast:
+	$(MAKE) -f CMakeFiles/6_1_template.dir/build.make CMakeFiles/6_1_template.dir/build
+.PHONY : 6_1_template/fast
+
+#=============================================================================
+# Target rules for targets named 6_template_funcation
+
+# Build rule for target.
+6_template_funcation: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 6_template_funcation
+.PHONY : 6_template_funcation
+
+# fast build rule for target.
+6_template_funcation/fast:
+	$(MAKE) -f CMakeFiles/6_template_funcation.dir/build.make CMakeFiles/6_template_funcation.dir/build
+.PHONY : 6_template_funcation/fast
+
+#=============================================================================
 # Target rules for targets named 5_default_parameter
 
 # Build rule for target.
@@ -363,6 +402,87 @@ depend:
 	$(MAKE) -f CMakeFiles/5_default_parameter.dir/build.make CMakeFiles/5_default_parameter.dir/5_default_parameter.cpp.s
 .PHONY : 5_default_parameter.cpp.s
 
+6_1_template.o: 6_1_template.cpp.o
+
+.PHONY : 6_1_template.o
+
+# target to build an object file
+6_1_template.cpp.o:
+	$(MAKE) -f CMakeFiles/6_1_template.dir/build.make CMakeFiles/6_1_template.dir/6_1_template.cpp.o
+.PHONY : 6_1_template.cpp.o
+
+6_1_template.i: 6_1_template.cpp.i
+
+.PHONY : 6_1_template.i
+
+# target to preprocess a source file
+6_1_template.cpp.i:
+	$(MAKE) -f CMakeFiles/6_1_template.dir/build.make CMakeFiles/6_1_template.dir/6_1_template.cpp.i
+.PHONY : 6_1_template.cpp.i
+
+6_1_template.s: 6_1_template.cpp.s
+
+.PHONY : 6_1_template.s
+
+# target to generate assembly for a file
+6_1_template.cpp.s:
+	$(MAKE) -f CMakeFiles/6_1_template.dir/build.make CMakeFiles/6_1_template.dir/6_1_template.cpp.s
+.PHONY : 6_1_template.cpp.s
+
+6_template_funcation.o: 6_template_funcation.cpp.o
+
+.PHONY : 6_template_funcation.o
+
+# target to build an object file
+6_template_funcation.cpp.o:
+	$(MAKE) -f CMakeFiles/6_template_funcation.dir/build.make CMakeFiles/6_template_funcation.dir/6_template_funcation.cpp.o
+.PHONY : 6_template_funcation.cpp.o
+
+6_template_funcation.i: 6_template_funcation.cpp.i
+
+.PHONY : 6_template_funcation.i
+
+# target to preprocess a source file
+6_template_funcation.cpp.i:
+	$(MAKE) -f CMakeFiles/6_template_funcation.dir/build.make CMakeFiles/6_template_funcation.dir/6_template_funcation.cpp.i
+.PHONY : 6_template_funcation.cpp.i
+
+6_template_funcation.s: 6_template_funcation.cpp.s
+
+.PHONY : 6_template_funcation.s
+
+# target to generate assembly for a file
+6_template_funcation.cpp.s:
+	$(MAKE) -f CMakeFiles/6_template_funcation.dir/build.make CMakeFiles/6_template_funcation.dir/6_template_funcation.cpp.s
+.PHONY : 6_template_funcation.cpp.s
+
+7_namespace.o: 7_namespace.cpp.o
+
+.PHONY : 7_namespace.o
+
+# target to build an object file
+7_namespace.cpp.o:
+	$(MAKE) -f CMakeFiles/7_namespace.dir/build.make CMakeFiles/7_namespace.dir/7_namespace.cpp.o
+.PHONY : 7_namespace.cpp.o
+
+7_namespace.i: 7_namespace.cpp.i
+
+.PHONY : 7_namespace.i
+
+# target to preprocess a source file
+7_namespace.cpp.i:
+	$(MAKE) -f CMakeFiles/7_namespace.dir/build.make CMakeFiles/7_namespace.dir/7_namespace.cpp.i
+.PHONY : 7_namespace.cpp.i
+
+7_namespace.s: 7_namespace.cpp.s
+
+.PHONY : 7_namespace.s
+
+# target to generate assembly for a file
+7_namespace.cpp.s:
+	$(MAKE) -f CMakeFiles/7_namespace.dir/build.make CMakeFiles/7_namespace.dir/7_namespace.cpp.s
+.PHONY : 7_namespace.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -398,6 +518,9 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... 7_namespace"
+	@echo "... 6_1_template"
+	@echo "... 6_template_funcation"
 	@echo "... 5_default_parameter"
 	@echo "... 1_funcation_array"
 	@echo "... 3_inline_funcation"
@@ -423,6 +546,15 @@ help:
 	@echo "... 5_default_parameter.o"
 	@echo "... 5_default_parameter.i"
 	@echo "... 5_default_parameter.s"
+	@echo "... 6_1_template.o"
+	@echo "... 6_1_template.i"
+	@echo "... 6_1_template.s"
+	@echo "... 6_template_funcation.o"
+	@echo "... 6_template_funcation.i"
+	@echo "... 6_template_funcation.s"
+	@echo "... 7_namespace.o"
+	@echo "... 7_namespace.i"
+	@echo "... 7_namespace.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/6_1_template.dir/6_1_template.cpp.o  -o 6_1_template 

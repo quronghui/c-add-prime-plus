@@ -48,6 +48,9 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/7_namespace.dir/DependInfo.cmake"
+  "CMakeFiles/6_1_template.dir/DependInfo.cmake"
+  "CMakeFiles/6_template_funcation.dir/DependInfo.cmake"
   "CMakeFiles/5_default_parameter.dir/DependInfo.cmake"
   "CMakeFiles/1_funcation_array.dir/DependInfo.cmake"
   "CMakeFiles/3_inline_funcation.dir/DependInfo.cmake"

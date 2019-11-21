@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/6_template_funcation.dir/6_template_funcation.cpp.o  -o 6_template_funcation 
