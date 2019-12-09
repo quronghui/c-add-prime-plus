@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/stack_class.dir/3_stack_class.cpp.o CMakeFiles/stack_class.dir/3_stacker.cpp.o  -o stack_class 

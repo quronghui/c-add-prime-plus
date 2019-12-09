@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/1_new_stock.cpp
+iostream
+-
+1_new_stock.h
+/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/1_new_stock.h
+
+/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/1_new_stock.h
+string
+-
+
+/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/1main.cpp
+iostream
+-
+1_new_stock.h
+/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/1_new_stock.h
+

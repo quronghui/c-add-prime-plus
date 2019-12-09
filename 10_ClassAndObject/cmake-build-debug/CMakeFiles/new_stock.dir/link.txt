@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/new_stock.dir/1_new_stock.cpp.o CMakeFiles/new_stock.dir/1main.cpp.o  -o new_stock 

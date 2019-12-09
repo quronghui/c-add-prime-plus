@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/stock.cpp
+iostream
+-
+stock.h
+/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/stock.h
+
+/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/stock.h
+string
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/10_ClassAndObject.dir/0_main.cpp.o CMakeFiles/10_ClassAndObject.dir/0_stock.cpp.o  -o 10_ClassAndObject 
