@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/stack_class.dir/3_stack_class.cpp.o"
-  "CMakeFiles/stack_class.dir/3_stacker.cpp.o"
-  "stack_class"
+  "CMakeFiles/stack_class.dir/3_stack_class.cpp.obj"
+  "CMakeFiles/stack_class.dir/3_stacker.cpp.obj"
+  "libstack_class.dll.a"
+  "stack_class.exe"
+  "stack_class.exe.manifest"
   "stack_class.pdb"
 )
 

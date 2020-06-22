@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="11_ClassUsing"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11_ClassUsing">
+				<Option output="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/11_ClassUsing.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 11_ClassUsing"/>
+					<CompileFile command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11_ClassUsing/fast">
+				<Option output="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/11_ClassUsing.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 11_ClassUsing/fast"/>
+					<CompileFile command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mytime0">
+				<Option output="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/mytime0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 mytime0"/>
+					<CompileFile command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mytime0/fast">
+				<Option output="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/mytime0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 mytime0/fast"/>
+					<CompileFile command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mytime1">
+				<Option output="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/mytime1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 mytime1"/>
+					<CompileFile command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mytime1/fast">
+				<Option output="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/mytime1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 mytime1/fast"/>
+					<CompileFile command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mytime3">
+				<Option output="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/mytime3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 mytime3"/>
+					<CompileFile command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mytime3/fast">
+				<Option output="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/mytime3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 mytime3/fast"/>
+					<CompileFile command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vector">
+				<Option output="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/vector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 vector"/>
+					<CompileFile command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vector/fast">
+				<Option output="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/vector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/software/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 vector/fast"/>
+					<CompileFile command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/HUST_Files/c-add-prime-plus/11_ClassUsing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/main.cpp">
+			<Option target="11_ClassUsing"/>
+		</Unit>
+		<Unit filename="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/mytime0.cpp">
+			<Option target="mytime0"/>
+		</Unit>
+		<Unit filename="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/mytime0.h">
+			<Option target="mytime0"/>
+		</Unit>
+		<Unit filename="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/mytime1.cpp">
+			<Option target="mytime1"/>
+		</Unit>
+		<Unit filename="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/mytime1.h">
+			<Option target="mytime1"/>
+		</Unit>
+		<Unit filename="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/mytime3.cpp">
+			<Option target="mytime3"/>
+		</Unit>
+		<Unit filename="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/mytime3.h">
+			<Option target="mytime0"/>
+			<Option target="mytime3"/>
+		</Unit>
+		<Unit filename="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/usetime0.cpp">
+			<Option target="mytime0"/>
+		</Unit>
+		<Unit filename="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/usetime1.cpp">
+			<Option target="mytime1"/>
+		</Unit>
+		<Unit filename="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/usetime3.cpp">
+			<Option target="mytime3"/>
+		</Unit>
+		<Unit filename="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/vector.cpp">
+			<Option target="vector"/>
+		</Unit>
+		<Unit filename="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/vector.h">
+			<Option target="vector"/>
+		</Unit>
+		<Unit filename="C:/HUST_Files/c-add-prime-plus/11_ClassUsing/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

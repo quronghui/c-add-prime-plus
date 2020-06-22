@@ -1,7 +1,7 @@
 //
 // Created by quronghui on 2019/12/9.
 //
-// 题目四:将类的概念融入到ADT中;
+// 题目四:将类的概念融入到ADT(abstract data type)中;
 //类的公有成员函数提供了表示栈操作的接口，而私有数据成员负责存储栈数据；
 
 #ifndef INC_10_CLASSANDOBJECT_3_STACK_CLASS_H

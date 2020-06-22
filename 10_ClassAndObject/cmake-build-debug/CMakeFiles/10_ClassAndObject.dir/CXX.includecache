@@ -6,13 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/stock.cpp
+C:/HUST_Files/c-add-prime-plus/10_ClassAndObject/0_main.cpp
 iostream
 -
-stock.h
-/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/stock.h
+0_stock.h
+C:/HUST_Files/c-add-prime-plus/10_ClassAndObject/0_stock.h
 
-/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/stock.h
+C:/HUST_Files/c-add-prime-plus/10_ClassAndObject/0_stock.cpp
+iostream
+-
+0_stock.h
+C:/HUST_Files/c-add-prime-plus/10_ClassAndObject/0_stock.h
+
+C:/HUST_Files/c-add-prime-plus/10_ClassAndObject/0_stock.h
 string
 -
 

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="11_ClassUsing" targetName="vector" />
+      <config projectName="11_ClassUsing" targetName="mytime0" />
+      <config projectName="11_ClassUsing" targetName="11_ClassUsing" />
+      <config projectName="11_ClassUsing" targetName="mytime1" />
+      <config projectName="11_ClassUsing" targetName="mytime3" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -9,8 +15,73 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77ab6595-665d-41be-8ea5-91b3f715dcc9" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="77ab6595-665d-41be-8ea5-91b3f715dcc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ClassUsing/.idea/11_ClassUsing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ClassUsing/mytime0.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ClassUsing/mytime0.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ClassUsing/mytime1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ClassUsing/mytime1.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ClassUsing/mytime3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ClassUsing/usetime0.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ClassUsing/usetime1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ClassUsing/usetime3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ClassUsing/vector.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ClassUsing/vector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/3_stack_class.h" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/3_stack_class.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/10_ClassAndObject.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/10_ClassAndObject.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/10_ClassAndObject.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/stack_class.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/stack_class.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/stack_class.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/stack_class.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/stack_class.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/stack_class.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/stack_class.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/stack_class.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/stack_class.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/stack_class.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/1main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/CMakeFiles/this_array.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/10_ClassAndObject/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,21 +90,55 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ProjectId" id="1SyG5WuJMW95JkFwEpYQUXcY7gw" />
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="ProjectId" id="1SyG5WuJMW95JkFwEpYQUXcY7gw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="CMake Application.mytime3">
+    <configuration name="11_ClassUsing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="11_ClassUsing" TARGET_NAME="11_ClassUsing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="11_ClassUsing" RUN_TARGET_NAME="11_ClassUsing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mytime0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="11_ClassUsing" TARGET_NAME="mytime0" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="11_ClassUsing" RUN_TARGET_NAME="mytime0">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mytime1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="11_ClassUsing" TARGET_NAME="mytime1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="11_ClassUsing" RUN_TARGET_NAME="mytime1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mytime3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="11_ClassUsing" TARGET_NAME="mytime3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="11_ClassUsing" RUN_TARGET_NAME="mytime3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vector" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="11_ClassUsing" TARGET_NAME="vector" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="11_ClassUsing" RUN_TARGET_NAME="vector">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.11_ClassUsing" />
+      <item itemvalue="CMake Application.mytime0" />
+      <item itemvalue="CMake Application.mytime1" />
+      <item itemvalue="CMake Application.mytime3" />
+      <item itemvalue="CMake Application.vector" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,10 +151,53 @@
       <option name="presentableId" value="Default" />
       <updated>1572528239205</updated>
       <workItem from="1572528242293" duration="5000" />
+      <workItem from="1589419158025" duration="821000" />
+      <workItem from="1589420070565" duration="2369000" />
+      <workItem from="1589504889151" duration="2602000" />
+      <workItem from="1589593555778" duration="754000" />
+      <workItem from="1589942569264" duration="530000" />
+      <workItem from="1590629863431" duration="3483000" />
+      <workItem from="1590714671054" duration="5887000" />
+      <workItem from="1591060587339" duration="5799000" />
+      <workItem from="1591233816057" duration="4300000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589419807141">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589419807141" />
+    <state x="462" y="105" key="FileChooserDialogImpl" timestamp="1589419826142">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589419826142" />
+    <state width="1323" height="199" key="GridCell.Tab.0.bottom" timestamp="1591256745085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="199" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591256745085" />
+    <state width="1323" height="199" key="GridCell.Tab.0.center" timestamp="1591256745085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="199" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591256745085" />
+    <state width="1323" height="199" key="GridCell.Tab.0.left" timestamp="1591256745084">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="199" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591256745084" />
+    <state width="1323" height="199" key="GridCell.Tab.0.right" timestamp="1591256745085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="199" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591256745085" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591233999631">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591233999631" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591236186633">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591236186633" />
   </component>
 </project>

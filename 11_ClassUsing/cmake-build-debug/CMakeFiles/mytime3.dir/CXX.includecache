@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/HUST_Files/c-add-prime-plus/11_ClassUsing/mytime3.h
+iostream
+-
+
+C:/HUST_Files/c-add-prime-plus/11_ClassUsing/usetime3.cpp
+iostream
+-
+mytime3.h
+C:/HUST_Files/c-add-prime-plus/11_ClassUsing/mytime3.h
+

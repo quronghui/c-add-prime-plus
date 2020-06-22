@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/1_new_stock.cpp" "/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/1_new_stock.cpp.o"
-  "/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/1main.cpp" "/home/quronghui/HustFiles/C++PrimePlus/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/1main.cpp.o"
+  "C:/HUST_Files/c-add-prime-plus/10_ClassAndObject/1_new_stock.cpp" "C:/HUST_Files/c-add-prime-plus/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/1_new_stock.cpp.obj"
+  "C:/HUST_Files/c-add-prime-plus/10_ClassAndObject/1main.cpp" "C:/HUST_Files/c-add-prime-plus/10_ClassAndObject/cmake-build-debug/CMakeFiles/new_stock.dir/1main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

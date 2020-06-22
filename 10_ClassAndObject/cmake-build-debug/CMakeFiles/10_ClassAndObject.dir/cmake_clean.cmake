@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
-  "10_ClassAndObject"
+  "10_ClassAndObject.exe"
+  "10_ClassAndObject.exe.manifest"
   "10_ClassAndObject.pdb"
-  "CMakeFiles/10_ClassAndObject.dir/0_main.cpp.o"
-  "CMakeFiles/10_ClassAndObject.dir/0_stock.cpp.o"
+  "CMakeFiles/10_ClassAndObject.dir/0_main.cpp.obj"
+  "CMakeFiles/10_ClassAndObject.dir/0_stock.cpp.obj"
+  "lib10_ClassAndObject.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
